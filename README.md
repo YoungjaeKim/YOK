@@ -1,4 +1,1 @@
-YOK
-===
-
-빅캠프2013해커톤: 하지말아욕
+Project name: YOK===This project contains works at the BigCamp Hackathon held in Samsung Building Korea, 2013.8 and 2013.10.빅캠프2013해커톤: 하지말아욕2013.10.19
